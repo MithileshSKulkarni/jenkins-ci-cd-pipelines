@@ -12,6 +12,7 @@ DevOps engineers own build automation, containerization, and deployment pipeline
 ⚠️ This repository focuses on CI/CD ownership and automation patterns, not application source code.
 
 🧱 Repository Structure
+
 jenkins-ci-cd-pipelines/
 │
 ├── docker-jenkins-setup/
@@ -23,6 +24,7 @@ jenkins-ci-cd-pipelines/
 │   └── react-app.Jenkinsfile
 │
 └── README.md
+
 
 🔧 Jenkins Setup (Dockerized)
 📁 docker-jenkins-setup/
